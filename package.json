@@ -1,0 +1,12 @@
+{
+  "name": "jjk-manga",
+  "version": "1.0.0",
+  "description": "JJK Manga - Static website for Jujutsu Kaisen manga information",
+  "scripts": {
+    "deploy": "npx wrangler deploy",
+    "dev": "npx wrangler dev"
+  },
+  "keywords": ["jujutsu kaisen", "manga", "jjk"],
+  "author": "Domic",
+  "license": "MIT"
+}

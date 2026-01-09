@@ -1,0 +1,29 @@
+name = "jujutsu-kaisen-manga-read"
+main = "src/index.js"
+compatibility_date = "2026-01-09"
+
+[assets]
+directory = "."
+include = [
+  "index.html",
+  "about.html",
+  "privacy.html",
+  "contact.html",
+  "author.html",
+  "blog.html",
+  "jjk-manga-reading-guide.html",
+  "styles.css",
+  "css/**",
+  "js/**",
+  "blog/**",
+  "robots.txt",
+  "sitemap.xml"
+]
+exclude = [
+  "src/**",
+  "node_modules/**",
+  "package.json",
+  "package-lock.json",
+  "DEPLOY.md",
+  "wrangler.toml"
+]

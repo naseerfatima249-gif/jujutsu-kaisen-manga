@@ -1,0 +1,19 @@
+# robots.txt for JJK Manga
+# https://Jujutsu-Kaisen-manga-read.page.dev
+
+User-agent: *
+Allow: /
+
+# Allow all important pages
+Allow: /index.html
+Allow: /about.html
+Allow: /privacy.html
+Allow: /contact.html
+Allow: /author.html
+Allow: /jjk-manga-reading-guide.html
+
+# Allow CSS
+Allow: /styles.css
+
+# Sitemap location
+Sitemap: https://Jujutsu-Kaisen-manga-read.page.dev/sitemap.xml

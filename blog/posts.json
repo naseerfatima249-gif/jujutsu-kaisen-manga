@@ -1,0 +1,26 @@
+{
+    "posts": [
+        {
+            "id": "jjk-power-system-explained",
+            "title": "The Cursed Energy System in JJK Explained",
+            "slug": "jjk-power-system-explained.html",
+            "excerpt": "A deep dive into how cursed energy works, from basic techniques to domain expansions.",
+            "author": "Domic",
+            "date": "2026-01-09",
+            "category": "Analysis",
+            "tags": ["cursed energy", "techniques", "guide"],
+            "featured": true
+        },
+        {
+            "id": "top-10-jjk-fights",
+            "title": "Top 10 Most Epic Battles in the JJK Manga",
+            "slug": "top-10-jjk-fights.html",
+            "excerpt": "Ranking the most intense and memorable fight sequences from the entire series.",
+            "author": "Domic",
+            "date": "2026-01-08",
+            "category": "Lists",
+            "tags": ["fights", "ranking", "action"],
+            "featured": true
+        }
+    ]
+}
